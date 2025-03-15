@@ -47,9 +47,6 @@ This script will:
 ## GPU Support
 The script checks for available GPUs and utilizes them for training if available.
 
-## License
-This project is open-source under the MIT License.
-
 ---
 
 Let me know if you'd like any modifications or additions! 🚀
