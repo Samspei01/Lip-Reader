@@ -53,4 +53,5 @@ This project is open-source under the MIT License.
 ---
 
 Let me know if you'd like any modifications or additions! 🚀
+📧 [Email Me](abdosaaed749@gmail.com)
 
